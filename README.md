@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I’m @sy.coldd I’m interested in FiveM, Discord Bot Development, and FiveM Development, and I’m currently learning Lua scripting for FiveM! I’m looking to collaborate on I am currently looking to collaborate with other developers on Discord Bots and you are able to reach me via the Discord. My username is: sy.coldd - my pronouns are he/him! A fun fact about me is that I have both Autism, and ADHD but does it stop me? No!
+Hi, I’m @sy.coldd! I’m interested in FiveM, Discord Bot Development, and FiveM Development, and I’m currently learning Lua scripting for FiveM! I’m looking to collaborate on I am currently looking to collaborate with other developers on Discord Bots and you are able to reach me via the Discord. My username is: sy.coldd - my pronouns are he/him! A fun fact about me is that I have both Autism, and ADHD but does it stop me? No!
 
 # ⚡ Current Employment
 - Team Lead for Technical Support @ Bare Hosting - A hosting company supporting many game and server types. Join us here: https://discord.gg/wdKTk6x2
