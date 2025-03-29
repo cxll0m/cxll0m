@@ -13,4 +13,5 @@ Below are the languages I am proficient in using, pretty much meaning that I kno
 # 📊 My GitHub Stats
 ![cxll0m's Stats](https://github-readme-stats.vercel.app/api?username=cxll0m&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![cxll0m's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cxll0m&theme=vue-dark&hide_border=true)
+
 ![cxll0m's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxll0m&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
